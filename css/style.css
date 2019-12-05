@@ -307,7 +307,9 @@ background: linear-gradient(
 ); /* W3C */
 }
 /*////////// LOGO //////////*/
-
+#logo{
+  padding: 84px 0 0;
+}
 
 
 #logo h1 {
